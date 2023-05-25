@@ -1,0 +1,14 @@
+{
+  "name": "kgb-black",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.umd.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.7"
+  }
+}
